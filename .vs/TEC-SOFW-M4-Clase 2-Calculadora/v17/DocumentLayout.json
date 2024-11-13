@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEC-SOFW-M4-Clase2-Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55843677-5839-48AC-AE27-C3CBC22F4680}|TEC-SOFW-M4-Clase 2Pre\\App.Calculator.csproj|d:\\tec-sofw-m4-clase2-calculadora\\tec-sofw-m4-clase 2pre\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55843677-5839-48AC-AE27-C3CBC22F4680}|TEC-SOFW-M4-Clase 2Pre\\App.Calculator.csproj|solutionrelative:tec-sofw-m4-clase 2pre\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TEC-SOFW-M4-Clase2-Calculadora\\TEC-SOFW-M4-Clase 2Pre\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TEC-SOFW-M4-Clase 2Pre\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TEC-SOFW-M4-Clase2-Calculadora\\TEC-SOFW-M4-Clase 2Pre\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TEC-SOFW-M4-Clase 2Pre\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAwwKQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:39:46.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿<Window x:Class="TEC_SOFW_M4_Clase_2Pre.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TEC_SOFW_M4_Clase_2Pre"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="300">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Display Row -->
+            <RowDefinition Height="*"/>
+            <!-- Buttons Row -->
+        </Grid.RowDefinitions>
+
+        <!-- Display -->
+        <TextBox x:Name="Display" 
+                 FontSize="24" 
+                 IsReadOnly="True" 
+                 HorizontalAlignment="Stretch" 
+                 VerticalAlignment="Center" 
+                 Margin="0, 0, 0, 10" />
+
+        <!-- Buttons -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Row 1: Clear, Backspace, Percentage, Divide -->
+            <Button Name="BTNC" Click="ActionC" Grid.Row="0" Grid.Column="0" Content="C" FontSize="18" />
+            <Button Name="BTNDelete" Click="ActionDelete" Grid.Row="0" Grid.Column="1" Content="⌫" FontSize="18" />
+            <Button Name="BTNPercentage" Click="ActionPercentage" Grid.Row="0" Grid.Column="2" Content="%" FontSize="18" />
+            <Button Name="BTNDivide" Click="ActionOperation" Grid.Row="0" Grid.Column="3" Content="÷" FontSize="18" />
+
+            <!-- Row 2: 7, 8, 9, Multiply -->
+            <Button Name="BTN7" Click="AddNumber" Grid.Row="1" Grid.Column="0" Content="7" FontSize="18" />
+            <Button Name="BTN8" Click="AddNumber" Grid.Row="1" Grid.Column="1" Content="8" FontSize="18" />
+            <Button Name="BTN9" Click="AddNumber" Grid.Row="1" Grid.Column="2" Content="9" FontSize="18" />
+            <Button Name="BTNX" Click="ActionOperation" Grid.Row="1" Grid.Column="3" Content="×" FontSize="18" />
+
+            <!-- Row 3: 4, 5, 6, Subtract -->
+            <Button Name="BTN4" Click="AddNumber" Grid.Row="2" Grid.Column="0" Content="4" FontSize="18" />
+            <Button Name="BTN5" Click="AddNumber" Grid.Row="2" Grid.Column="1" Content="5" FontSize="18" />
+            <Button Name="BTN6" Click="AddNumber" Grid.Row="2" Grid.Column="2" Content="6" FontSize="18" />
+            <Button Name="BTNLess" Click="ActionOperation" Grid.Row="2" Grid.Column="3" Content="−" FontSize="18" />
+
+            <!-- Row 4: 1, 2, 3, Add -->
+            <Button Name="BTN1" Click="AddNumber" Grid.Row="3" Grid.Column="0" Content="1" FontSize="18" />
+            <Button Name="BTN2" Click="AddNumber" Grid.Row="3" Grid.Column="1" Content="2" FontSize="18" />
+            <Button Name="BTN3" Click="AddNumber" Grid.Row="3" Grid.Column="2" Content="3" FontSize="18" />
+            <Button Name="BTNAdd" Click="ActionOperation" Grid.Row="3" Grid.Column="3" Content="+" FontSize="18" />
+
+            <!-- Row 5: 0, Decimal, Equals -->
+            <Button Name="BTN0" Click="AddNumber" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Content="0" FontSize="18" />
+            <Button Name="BTNDot" Click="AddNumber" Grid.Row="4" Grid.Column="2" Content="." FontSize="18" />
+            <Button Name="BTNEqual" Click="ActionEqual" Grid.Row="4" Grid.Column="3" Content="=" FontSize="18" />
+        </Grid>
+    </Grid>
+</Window>

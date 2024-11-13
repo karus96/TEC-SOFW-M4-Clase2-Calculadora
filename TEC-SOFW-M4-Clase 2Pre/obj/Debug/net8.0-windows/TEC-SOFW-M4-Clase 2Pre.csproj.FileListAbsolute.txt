@@ -1,0 +1,20 @@
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\bin\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.exe
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\bin\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.deps.json
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\bin\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.runtimeconfig.json
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\bin\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.dll
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\bin\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.pdb
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre_MarkupCompile.cache
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre_MarkupCompile.lref
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.g.resources
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.AssemblyInfo.cs
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.dll
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\refint\TEC-SOFW-M4-Clase 2Pre.dll
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.pdb
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\TEC-SOFW-M4-Clase 2Pre.genruntimeconfig.cache
+C:\Users\ricar\source\repos\TEC-SOFW-M4-Clase 2Pre\TEC-SOFW-M4-Clase 2Pre\obj\Debug\net8.0-windows\ref\TEC-SOFW-M4-Clase 2Pre.dll
